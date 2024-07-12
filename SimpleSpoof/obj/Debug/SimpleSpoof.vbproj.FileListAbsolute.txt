@@ -1,0 +1,11 @@
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\bin\Debug\SimpleSpoof.exe.config
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\bin\Debug\SimpleSpoof.exe
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\bin\Debug\SimpleSpoof.pdb
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\bin\Debug\SimpleSpoof.xml
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\obj\Debug\SimpleSpoof.vbprojAssemblyReference.cache
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\obj\Debug\SimpleSpoof.Form1.resources
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\obj\Debug\SimpleSpoof.Resources.resources
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\obj\Debug\SimpleSpoof.vbproj.GenerateResource.cache
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\obj\Debug\SimpleSpoof.exe
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\obj\Debug\SimpleSpoof.xml
+C:\Users\TeamRedRig\source\repos\SimpleSpoof\SimpleSpoof\obj\Debug\SimpleSpoof.pdb
